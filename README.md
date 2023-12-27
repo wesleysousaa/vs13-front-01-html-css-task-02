@@ -18,7 +18,7 @@ Passo-a-passo:
    > Para isso, basta pegar o link do repo e colocar git clone atras, segue o exmplo:
 
 ```
-git clone https://github.com/wesleysousaa/vs13-front-01-html-task-01.git
+git clone https://github.com/wesleysousaa/vs13-front-01-html-css-task-02
 ```
 
 ## 💻 Sobre o Projeto
