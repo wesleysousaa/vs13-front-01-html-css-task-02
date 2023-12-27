@@ -8,7 +8,8 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-![Imagem de HTML](./assets/image.png)
+![Imagem de HTML](./assets/html.png)
+![Imagem de CSS](./assets/css.png)
 
 ## ⚙️ Instalação do projeto
 
